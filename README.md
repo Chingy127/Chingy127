@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: www.linkedin.com/in/collin-smithh
+[linkedin]: https://linkedin.com/in/collin-smithh
