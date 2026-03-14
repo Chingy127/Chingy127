@@ -10,7 +10,7 @@
 
 - <b>Active Directory</b>
   - [Domain Controller & Client VM Setup](https://github.com/Chingy127/Domain-Controller-Client-VM-Setup)
-  - [Active Directory Setup](https://github.com/Chingy127/Cloud-VM-Deployment)
+  - [Active Directory Setup](https://github.com/Chingy127/Active-Directory-Setup)
   - [Adding Users](https://github.com/Chingy127/Adding-Users)
   - [Group Policy](https://github.com/Chingy127/Cloud-VM-Deployment)
   - [File Sharing & Permisson Changes](https://github.com/Chingy127/Cloud-VM-Deployment)
