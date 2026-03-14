@@ -17,7 +17,7 @@
  
 - <b>Azure Computing & Networking</b>
   - [Wireshark Analysis: DHCP & DNS](https://github.com/Chingy127/Wireshark-Analysis-DHCP-DNS)
-  - [Wireshark Analysis: ICMP](https://github.com/Chingy127/Cloud-VM-Deployment)
+  - [Wireshark Analysis: ICMP](https://github.com/Chingy127/Wireshark-Analysis-ICMP)
   - [Wireshark Analysis: RDP & SSH](https://github.com/Chingy127/Cloud-VM-Deployment)
   
 
