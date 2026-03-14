@@ -8,6 +8,11 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Chingy127/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Chingy127/ticket-lifecycle)
 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [Azure VM Deployment](https://github.com/Chingy127/Azure-Deployment)
+  - 
+  - 
+    
 <h2>🤳Connect with me:</h2>
 
 
