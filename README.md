@@ -10,8 +10,10 @@
 
 - <b>Active Directory</b>
   - [Domain Controller & Client VM Setup](https://github.com/Chingy127/Cloud-VM-Deployment)
-  - 
-  - 
+  - [Active Directory Setup](https://github.com/Chingy127/Cloud-VM-Deployment)
+  - [Adding Users](https://github.com/Chingy127/Cloud-VM-Deployment)
+  - [Group Policy](https://github.com/Chingy127/Cloud-VM-Deployment)
+  - [File Sharing & Permisson Changes](https://github.com/Chingy127/Cloud-VM-Deployment)
     
 <h2>🤳Connect with me:</h2>
 
