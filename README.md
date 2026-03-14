@@ -16,7 +16,7 @@
   - [File Sharing & Permisson Changes](https://github.com/Chingy127/File-Sharing-Permisson-Changes)
  
 - <b>Azure Computing & Networking</b>
-  - [VM Setup & WireShark Installation](https://github.com/Chingy127/Active-Directory-Setup)
+  - [VM Setup & WireShark Installation](https://github.com/Chingy127/VM-Setup-WireShark-Installation)
   - [Wireshark Analysis: DHCP & DNS](https://github.com/Chingy127/Wireshark-Analysis-DHCP-DNS)
   - [Wireshark Analysis: ICMP](https://github.com/Chingy127/Wireshark-Analysis-ICMP)
   - [Wireshark Analysis: RDP & SSH](https://github.com/Chingy127/Wireshark-Analysis-RDP-SSH)
