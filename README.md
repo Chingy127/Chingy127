@@ -9,7 +9,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Chingy127/ticket-lifecycle)
 
 - <b>Active Directory</b>
-  - [Domain Controller & Client VM Setup](https://github.com/Chingy127/Cloud-VM-Deployment)
+  - [Domain Controller & Client VM Setup](https://github.com/Chingy127/Domain-Controller-Client-VM-Setup)
   - [Active Directory Setup](https://github.com/Chingy127/Cloud-VM-Deployment)
   - [Adding Users](https://github.com/Chingy127/Cloud-VM-Deployment)
   - [Group Policy](https://github.com/Chingy127/Cloud-VM-Deployment)
