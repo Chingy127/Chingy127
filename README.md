@@ -8,7 +8,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Chingy127/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Chingy127/ticket-lifecycle)
 
-- <b>Azure Networking</b>
+- <b>Active Directory</b>
   - [Azure VM Deployment](https://github.com/Chingy127/Cloud-VM-Deployment)
   - 
   - 
