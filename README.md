@@ -9,7 +9,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Chingy127/ticket-lifecycle)
 
 - <b>Active Directory</b>
-  - [Azure VM Deployment](https://github.com/Chingy127/Cloud-VM-Deployment)
+  - [Domain Controller & Client VM Setup](https://github.com/Chingy127/Cloud-VM-Deployment)
   - 
   - 
     
