@@ -9,7 +9,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Chingy127/ticket-lifecycle)
 
 - <b>Azure Networking</b>
-  - [Azure VM Deployment](https://github.com/Chingy127/Cloud VM Deployment)
+  - [Azure VM Deployment](https://github.com/Chingy127/Cloud-VM-Deployment)
   - 
   - 
     
