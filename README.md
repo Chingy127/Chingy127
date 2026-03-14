@@ -16,7 +16,7 @@
   - [File Sharing & Permisson Changes](https://github.com/Chingy127/Cloud-VM-Deployment)
  
 - <b>Azure Computing & Networking</b>
-  - [Wireshark Analysis: DHCP & DNS](https://github.com/Chingy127/Cloud-VM-Deployment)
+  - [Wireshark Analysis: DHCP & DNS](https://github.com/Chingy127/Wireshark-Analysis-DHCP-DNS)
   - [Wireshark Analysis: ICMP](https://github.com/Chingy127/Cloud-VM-Deployment)
   - [Wireshark Analysis: RDP & SSH](https://github.com/Chingy127/Cloud-VM-Deployment)
   
