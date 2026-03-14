@@ -13,7 +13,7 @@
   - [Active Directory Setup](https://github.com/Chingy127/Active-Directory-Setup)
   - [Adding Users](https://github.com/Chingy127/Adding-Users)
   - [Group Policy](https://github.com/Chingy127/Group-Policy)
-  - [File Sharing & Permisson Changes](https://github.com/Chingy127/Cloud-VM-Deployment)
+  - [File Sharing & Permisson Changes](https://github.com/Chingy127/File-Sharing-Permisson-Changes)
  
 - <b>Azure Computing & Networking</b>
   - [Wireshark Analysis: DHCP & DNS](https://github.com/Chingy127/Wireshark-Analysis-DHCP-DNS)
