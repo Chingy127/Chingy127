@@ -13,7 +13,7 @@
   - [Domain Controller & Client VM SetupPT2](https://github.com/Chingy127/Domain-Controller-Client-VM-SetupPT2)
   - [Active Directory Setup](https://github.com/Chingy127/Active-Directory-Setup)
   - [Adding/Generating Users](https://github.com/Chingy127/Adding-Users)
-  - [Group Policy](https://github.com/Chingy127/Group-Policy)
+  - [Group Policy/Reviewing Logs](https://github.com/Chingy127/Group-Policy)
   - [File Sharing & Permisson Changes](https://github.com/Chingy127/File-Sharing-Permisson-Changes)
  
 - <b>Azure Computing & Networking</b>
