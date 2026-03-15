@@ -6,7 +6,7 @@
   - [Azure VM Deployment](https://github.com/Chingy127/Azure-Deployment)
   - [osTicket: Prerequisites and Installation](https://github.com/Chingy127/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Chingy127/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Chingy127/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Demos](https://github.com/Chingy127/ticket-lifecycle)
 
 - <b>Active Directory</b>
   - [Domain Controller & Client VM Setup](https://github.com/Chingy127/Domain-Controller-Client-VM-Setup)
